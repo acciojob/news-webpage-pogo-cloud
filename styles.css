@@ -25,6 +25,7 @@
 	height:150px;
 	border-radius:20px;
 	background-color:white;
+	margin:5px;
 }
 .main-article{
 	flex:50%;
@@ -32,6 +33,7 @@
 	height:250px;
 	border-radius:20px;
 	background-color:white;
+	margin:5px;
 }
 .pictorial-news-section{
 	display:flex;
@@ -41,6 +43,7 @@
 	border-radius:20px;
 	align-items:center;
 	background-color:white;
+	margin:5px;
 }
 .img1{
 	height:120px;
